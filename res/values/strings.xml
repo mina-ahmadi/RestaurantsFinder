@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">sample</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="app_name">fre</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="typeCountry">Type a Country</string>
+    <string name="search_button">Search</string>
+
+    <string-array name="country_array">
+
+        <!-- Coutries alphabetically : A -->
+        <item>Afghanistan</item>
+        <item>Aland islands</item>
+        <item>Albania</item>
+        <item>Algeria</item>
+        <item>American Samoa</item>
+        <item>Andorra</item>
+        <item>Angola</item>
+        <item>Anguilla</item>
+        <item>Antarctica</item>
+        <item>Antigua and Barbuda</item>
+        <item>Argentina</item>
+        <item>Armenia</item>
+        <item>Aruba</item>
+        <item>Australia</item>
+        <item>Austria</item>
+        <item>Azerbaijan</item>
+    </string-array>
+
+    <integer-array name="flag_icons">
+        <item>@drawable/afghanistan</item>
+        <item>@drawable/aland_islands</item>
+        <item>@drawable/albania</item>
+        <item>@drawable/algeria</item>
+        <item>@drawable/american_samoa</item>
+        <item>@drawable/andorra</item>
+        <item>@drawable/angola</item>
+        <item>@drawable/anguilla</item>
+        <item>@drawable/antarctica</item>
+        <item>@drawable/antigua_and_barbuda</item>
+        <item>@drawable/argentina</item>
+        <item>@drawable/armenia</item>
+        <item>@drawable/aruba</item>
+        <item>@drawable/australia</item>
+        <item>@drawable/austria</item>
+        <item>@drawable/azerbaijan</item>
+    </integer-array>
+
+    <string name="title_activity_near_by_restaurants">NearByRestaurants</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
